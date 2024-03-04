@@ -1,0 +1,72 @@
+#bdy {
+    background-image: url(https://images.unsplash.com/photo-1512867957657-38dbae50a35b?w=1920&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHNvZnQlMjBiYWNrZ3JvdWJkJTIwZm9yJTIwaGVhbHRoJTIwam91cm5hbHxlbnwwfHwwfHx8MA%3D%3D);
+    background-repeat: no-repeat;
+    image-resolution: 1080x1920;
+    /* background-size: cover; */
+    padding: 26px 155px 31px 195px;
+    margin: 15px 125px 55px 125px;
+    background-size: cover;
+    image-orientation: from-image;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+
+
+}
+
+form {
+    background-color: rgb(233, 233, 233);
+    background-image: url(https://plus.unsplash.com/premium_photo-1699956217218-bbea749af3a6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fHNvZnQlMjBiYWNrZ3JvdW5kJTIwY29sb3J8ZW58MHx8MHx8fDA%3D);
+    background-repeat: no-repeat;
+        background-size: 100% 100%;
+    background-attachment: fixed;
+   
+
+    padding: 36px 125px 31px 195px;
+    margin: 65px 65px 45px 45px;
+    color: rgba(117, 30, 30, 0.81);
+
+}
+
+input {
+    background-color: rgb(216, 216, 198);
+    width: fit-content;
+
+
+    border-color: black solid;
+    /* border-style: solid; */
+
+}
+
+label {
+    border-color: 2px black;
+
+    font-weight: bold;
+}
+
+#mysubmit {
+    background-color: rgb(195, 200, 200);
+    border: blue solid;
+    /* border-style: solid; */
+    color: blue;
+    line-height: 2em;
+    font-weight: bolder;
+    text-align: center;
+
+
+}
+
+#mypara {
+    height: 90px;
+    width: 200px;
+    background-image: url(https://static-00.iconduck.com/assets.00/user-icon-1024x1024-dtzturco.png);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: contain;
+    margin-left: 20%;
+    margin-right: 40%;
+}
+
+h1 {
+    margin-left: 30%;
+    margin-right: 30%;
+}
